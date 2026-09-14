@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **@gabrielwikrama**
 - 🌱 I’m currently learning **Rect JS** 
-![cat basketball](./img//Cat.gif)
+- ![cat basketball](./img//Cat.gif)
