@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world! 👋
 
 <!--
 **gabrielwikrama/gabrielwikrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **@gabrielwikrama**
+- 🌱 I’m currently learning **Rect JS** 
+![cat basketball](./img//Cat.gif)
