@@ -34,11 +34,9 @@ Here are some ideas to get you started:
 ![cat basketball](img//Cat.gif)
 
 ### Social Media
-<!-- ![https://www.instagram.com/gabrielwikrama/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/gabriel-wikrama-7447562a0/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -->
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielwikrama/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-wikrama-7447562a0/)
 
-<h2 data-importer="text" align="left">Play games with me</h2>
+<h3 data-importer="text" align="left">Play games with me</h3>
 
 ###
 
